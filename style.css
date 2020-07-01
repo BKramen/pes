@@ -175,35 +175,36 @@ p {
     .news-contents {
         flex-direction: column-reverse;
     }
-    .kategori {
-        font-size:
-    }
 
     article {
-        width: 100%;
+        width: 190%;
     }
     #index page-title {
         margin-top: 30px;
     }
+    #index {
+        width: 200%;
+    }
     aside {
         margin-bottom: 20px;
-        width: 100%;
+        width: 190%;
+    }
+    footer {
+        width: 200%;
     }
     .post-info {
         margin-bottom: 30px;
     }
     .post-date {
-        width: 70px;
-        height: 70px;
+        width: 30px;
+        height: 30px;
         font-size: 1rem;
     }
     .post-date span {
-        font-size: 0.875rem;
+        font-size: 0.6rem;
         padding-top: 2px;
     }
-    .post-title {
-        font-size: 1.375rem;
-    }
+
     .post-cat {
         font-size: 0.875rem;
         margin-top: 10px;
@@ -214,6 +215,9 @@ p {
     }
     .konosaito {
         display: none;
+    }
+    .kakusuka {
+        margin-left: 10%;
     }
 
 }
